@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="employeeV2"
+    errors="0" failures="0" hostname="" id="" package="employeeV2" skipped="0"
+    tests="2" time="24.46" timestamp="">
+  
+    <testcase name="Add Employee" classname="employeeV2" time="23.68" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Employee ID Number Callback" classname="employeeV2" time="0.7870" assertions="0">
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
